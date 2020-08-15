@@ -1,0 +1,13 @@
+{
+    "terminal.integrated.shell.windows": "C:\\\\Program Files\\\\Git\\\\bin\\\\bash.exe",
+    "files.associations": {
+        "ostream": "cpp",
+        "iostream": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "Enabled",
+    "git.autofetch": true,
+    "C_Cpp.clang_format_sortIncludes": true,
+    "terminal.integrated.splitCwd": "workspaceRoot",
+    "C_Cpp.default.cStandard": "c99",
+    "files.autoGuessEncoding": true
+}
